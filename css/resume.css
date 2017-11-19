@@ -103,7 +103,7 @@ section.resume-section {
     padding-top: 3rem !important;
     padding-bottom: 3rem !important; } }
 
-.portfolio-box {
+/*.portfolio-box {
   position: relative;
   display: block;
   max-width: 650px;
@@ -145,7 +145,9 @@ section.resume-section {
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
       font-size: 16px; }
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-      font-size: 22px; } }
+      font-size: 22px; } }*/
+
+
 
 .bg-primary {
   background-color: #BD5D38 !important; }
