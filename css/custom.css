@@ -1,0 +1,26 @@
+.services .box {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .services .icon {
+    border: solid 2px #555555;
+    border-radius: 50px;
+    font-size: 50px;
+    height: 100px;
+    line-height: 50px;
+    margin: 20px auto; 
+    padding: 25px 0px 0px 0px;
+    text-align: center;
+    width: 100px;
+  }
+  .services .small-icon {
+    /*border: solid 1px #555555;*/
+    border-radius: 50px;
+    font-size: 35px;
+    height: 45px;
+    line-height: 50px;
+    margin: 20px auto; 
+    /*padding: 25px 0px 0px 0px;*/
+    text-align: center;
+    width: 45px;
+  }
